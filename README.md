@@ -16,7 +16,6 @@ Es necesario aplicar un modelo estadístico visto en clase que se ajuste al prob
 
 # Entregables 
 
-Un jupiter Nootebook con el código de limpeza de datos. 
 
 Un jupiter Noootebook con el código en el que se muestra el modelo estadístico que has utilizado. 
 
